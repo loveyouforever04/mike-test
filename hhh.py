@@ -22,7 +22,7 @@ f.close()
 f = open(filename, 'a')  # append 方式读文件
 text2write = "888888\n"
 f.write(text2write)
-
+#嘎嘎嘎嘎嘎
 
 count=0
 #最简单的for
