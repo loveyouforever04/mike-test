@@ -45,7 +45,7 @@ for row in range(1,21):
         #随机生成运算符
         op = random.randint(1,4)
         # debug
-        
+
 
         #当op=1时加法
         if op == 1:
